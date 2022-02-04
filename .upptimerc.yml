@@ -9,6 +9,8 @@ sites:
     url: http://146.56.161.24:32400/web
   - name: Home Assistant - DS918P
     url: https://home.jdh1.duckdns.org/
+  - name: SJVA - DS918P
+    url: https://sjva.jdh1.duckdns.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
