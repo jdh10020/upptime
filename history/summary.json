@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 1191,
-    "timeDay": 1415,
-    "timeWeek": 1180,
-    "timeMonth": 1191,
-    "timeYear": 1191,
+    "time": 1192,
+    "timeDay": 1206,
+    "timeWeek": 1156,
+    "timeMonth": 1192,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2022-02-08": 20
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/146.56.161.24",
     "slug": "plex-a1",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 505,
-    "timeDay": 561,
-    "timeWeek": 500,
-    "timeMonth": 505,
-    "timeYear": 505,
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 506,
+    "timeDay": 520,
+    "timeWeek": 492,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2022-02-08": 19,
       "2022-02-04": 26
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 599,
-    "timeWeek": 565,
-    "timeMonth": 1034,
-    "timeYear": 1034,
+    "time": 1018,
+    "timeDay": 741,
+    "timeWeek": 584,
+    "timeMonth": 1018,
+    "timeYear": 1018,
     "dailyMinutesDown": {}
   }
 ]
