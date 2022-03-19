@@ -45,7 +45,7 @@
     "url": "https://home.jdh1.duckdns.org/",
     "icon": "https://favicons.githubusercontent.com/home.jdh1.duckdns.org",
     "slug": "home-assistant-ds-918-p",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +56,8 @@
     "timeWeek": 767,
     "timeMonth": 921,
     "timeYear": 960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-19": 0
+    }
   }
 ]
