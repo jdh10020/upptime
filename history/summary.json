@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/146.56.161.24",
     "slug": "sjva-a1",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1188,
     "timeDay": 1144,
     "timeWeek": 1150,
@@ -45,7 +45,7 @@
     "url": "https://home.jdh1.duckdns.org/",
     "icon": "https://favicons.githubusercontent.com/home.jdh1.duckdns.org",
     "slug": "home-assistant-ds-918-p",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -57,6 +57,7 @@
     "timeMonth": 828,
     "timeYear": 885,
     "dailyMinutesDown": {
+      "2022-04-01": 0,
       "2022-03-20": 42,
       "2022-03-19": 185
     }
