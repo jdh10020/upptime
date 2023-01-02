@@ -4,9 +4,9 @@
     "url": "http://146.56.161.24:9999/",
     "icon": "https://icons.duckduckgo.com/ip3/146.56.161.24.ico",
     "slug": "sjva-a1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 1173,
     "timeYear": 1159,
     "dailyMinutesDown": {
+      "2023-01-02": 0,
       "2022-12-26": 20,
       "2022-12-19": 18,
       "2022-11-07": 27,
@@ -79,7 +80,7 @@
     "uptimeYear": "99.73%",
     "time": 1090,
     "timeDay": 1432,
-    "timeWeek": 2255,
+    "timeWeek": 1635,
     "timeMonth": 1215,
     "timeYear": 1090,
     "dailyMinutesDown": {
