@@ -42,18 +42,19 @@
     "url": "http://146.56.161.24:32400/web",
     "icon": "https://icons.duckduckgo.com/ip3/146.56.161.24.ico",
     "slug": "plex-a1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 857,
+    "time": 858,
     "timeDay": 448,
     "timeWeek": 439,
     "timeMonth": 478,
     "timeYear": 486,
     "dailyMinutesDown": {
+      "2023-07-28": 0,
       "2023-01-25": 21,
       "2022-11-02": 19
     }
