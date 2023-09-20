@@ -1,7 +1,7 @@
 url: https://home.jdh1.duckdns.org/
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2023-09-20T10:30:14.991Z
+status: down
+code: 502
+responseTime: 1690
+lastUpdated: 2023-09-20T10:40:34.522Z
 startTime: 2022-02-04T14:31:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
